@@ -9,6 +9,7 @@ import android.widget.ArrayAdapter
 import android.widget.AutoCompleteTextView
 import android.widget.Spinner
 import android.widget.TextView
+import com.example.myapp.R
 
 class SnipperActivity : AppCompatActivity () ,AdapterView.OnItemSelectedListener{
     lateinit var textView: TextView
